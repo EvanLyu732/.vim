@@ -5,6 +5,5 @@ pushd $HOME > /dev/null;
 		   git clone https://github.com/EvanLyu732/.vim.git 
    else 
 		   echo ".vim folder exist."
-
    fi 
 popd > /dev/null;
